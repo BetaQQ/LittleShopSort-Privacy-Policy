@@ -2,7 +2,7 @@
 
 **Effective date: November 13, 2026**
 
-This Privacy Policy explains how the Android game **Little Shop Sort** (package name `com.littleshop.sort`) handles information. It applies to the game and its advertising features.
+This Privacy Policy explains how the Android game **Little Shop Sort** (package name com.MegaSpirits.CozyCornerShop) handles information. It applies to the game and its advertising features.
 
 ## Information stored by the game
 
