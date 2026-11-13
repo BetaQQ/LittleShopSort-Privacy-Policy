@@ -29,7 +29,7 @@ Gameplay progress remains in the app's local storage until you clear the app's s
 
 ## Children's privacy
 
-The game does not ask users to submit personal information. If you believe a child has provided personal information to the developer outside the game, contact the developer using the website below so the concern can be reviewed.
+The game does not ask users to submit personal information. If you believe a child has provided personal information to the developer outside the game, email the developer at syokusoglu1@gmail.com so the concern can be reviewed.
 
 ## Changes to this policy
 
@@ -37,7 +37,4 @@ This policy may be updated if the game's features or data practices change. The 
 
 ## Contact
 
-Developer website: [serhatgoogleads.blogspot.com](https://serhatgoogleads.blogspot.com)
-
-For privacy questions, use the developer contact details shown on the game's Google Play listing or the contact method on the developer website.
-
+Contact email: syokusoglu1@gmail.com
